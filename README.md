@@ -15,5 +15,8 @@ Http_provider---> You can use moralis , infura or ur own node ( http://(ur provi
 Modify the file , to iterate to a directory instead of only give numbers
   -So this was made in a rush , so basically it changes all of the filename to the traits to make it work
   
-
-
+ ----Note---
+ This works directly calling the contract to have the random traits , there are many fast harcode but only eliminate the conditonals and it should work 
+ With the token_traits of the contract.
+ 
+ 
